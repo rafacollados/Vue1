@@ -1,0 +1,16 @@
+{
+  "name": "introvue",
+  "version": "1.0.0",
+  "description": "Intro a Vue",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+    "server": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafa Collados",
+  "license": "ISC"
+}
